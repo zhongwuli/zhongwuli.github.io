@@ -1,28 +1,54 @@
 ---
-layout: profiles
-permalink: /people/
+layout: page
 title: people
-description: members of the lab or group
-nav: false
-nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+permalink: /people/
+description: Academic background and a space for future group members.
+nav: true
+nav_order: 3
 ---
+
+## Zhongwu Li, Ph.D.
+
+<img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Zhongwu Li" style="width:190px;max-width:42%;float:right;margin:0 0 1rem 1.5rem;border-radius:8px;" loading="lazy">
+
+**Postdoctoral Scientist**, Materials & Devices for Life Sciences, Ellison Institute of Technology Oxford (EIT Oxford)  
+**Visiting Researcher**, Department of Chemistry, University of Oxford
+
+I study molecular nanofluidics, biomimetic ion channels, soft bioiontronics and neuromorphic ionic computing. My research combines fundamental transport physics with the design of functional ionic systems for energy, sensing and biointerfaces.
+
+**Contact:** [zhongwu.li@eit.org](mailto:zhongwu.li@eit.org) · [Google Scholar](https://scholar.google.com/citations?user=8_mITz8AAAAJ) · [ORCID](https://orcid.org/0000-0001-8825-6307)
+
+<div style="clear:both"></div>
+
+### Academic appointments
+
+| Dates | Position | Institution |
+| --- | --- | --- |
+| May 2026–present | Postdoctoral Scientist | Ellison Institute of Technology Oxford, UK |
+| Jun 2026–present | Visiting Researcher | Department of Chemistry, University of Oxford, UK |
+| Apr 2023–May 2026 | Postdoctoral Researcher | Lawrence Livermore National Laboratory (LLNL), USA |
+| Mar 2025–May 2026 | Affiliate Visiting Researcher | Molecular Foundry, Lawrence Berkeley National Laboratory (LBNL), USA |
+| Nov 2021–Mar 2023 | Assistant Professor | China University of Mining and Technology, China |
+
+At EIT Oxford I work with **Professor Hagan Bayley**. My LLNL postdoctoral and joint doctoral research was conducted with **Dr. Aleksandr Noy**.
+
+### Education
+
+| Dates | Qualification | Institution |
+| --- | --- | --- |
+| 2015–2021 | Doctorate, Mechanical Engineering | Southeast University, China |
+| 2018–2020 | Joint Ph.D. research, Materials Science | Lawrence Livermore National Laboratory, USA |
+| 2011–2015 | B.Eng., Mechanical Engineering | China University of Mining and Technology, China |
+
+**Doctoral advisor:** Professor Yunfei Chen.  
+**Dissertation:** *Fundamental ion and water transport in low-dimensional carbon nanochannels.*
+
+### Research mentoring
+
+At LLNL, I mentored undergraduate and graduate researchers on neuromorphic ionic computing with nanofluidic ion channels, including **Vara Qi Gunananthan** (Johns Hopkins University), **Sydney Katherine Myers** (UCLA) and **Jiachen Feng** (University of Nebraska Medical Center).
+
+---
+
+## Group members
+
+This section is reserved for **future students, postdoctoral researchers and collaborators**. Member photos, roles, biographies and research interests can be added as the team grows.
