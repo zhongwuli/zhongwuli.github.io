@@ -14,13 +14,13 @@ The website is powered by [al-folio](https://github.com/alshedivat/al-folio) and
 
 ## Journal covers
 
-Upload each cover image into `assets/img/covers/`. Filenames must match `_data/covers.yml`. The gallery automatically shows images that are present and omits missing-image placeholders.
+Upload each cover image into `assets/img/book_covers/`. Filenames must match `_data/covers.yml`. The gallery automatically shows images that are present and omits missing-image placeholders.
 
 The homepage shows covers with `featured: true`. All entries appear on the Journal Covers page.
 
 ## Profile photo
 
-Upload a portrait as `assets/img/prof_pic.jpg`. In `_pages/about.md`, change the profile configuration from `image:` to `image: prof_pic.jpg` to display it.
+Upload a portrait as `assets/img/prof_pic.jpg`. In `_pages/about.md`, the profile is configured as `image: prof_pic.jpg` to display it.
 
 ## Publishing
 

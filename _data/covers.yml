@@ -1,40 +1,40 @@
 - title: "Advanced Materials"
   year: 2026
-  file: cover_advmat_2026.jpg
+  file: "Advanced Materials_2026.png"
   featured: true
 - title: "Chemical Society Reviews"
   year: 2025
-  file: cover_chem_soc_rev_2025.jpg
+  file: "Chemical Society Review_2025.png"
   featured: true
 - title: "ACS Nano"
   year: 2025
-  file: cover_acs_nano_2025.jpg
+  file: "ACS_Nano_2025.png"
   featured: true
 - title: "Nature Materials"
   year: 2024
-  file: cover_nature_materials_2024.jpg
+  file: "Nature Materials_2024.PNG"
   featured: true
 - title: "Nature Nanotechnology"
   year: 2023
-  file: cover_nature_nanotechnology_2023.jpg
+  file: "Nature Nanotechnology_2023.png"
   featured: true
 - title: "Chemical Reviews"
   year: 2023
-  file: cover_chemical_reviews_2023.jpg
+  file: "Chemical Reviews_2023.png"
   featured: true
 - title: "Nano Today"
   year: 2023
-  file: cover_nano_today_2023.jpg
+  file: "Nano today_2023.png"
   featured: false
 - title: "Science Advances"
   year: 2020
-  file: cover_science_advances_2020.jpg
+  file: "Science Advances_2020.png"
   featured: false
 - title: "Langmuir"
   year: 2021
-  file: cover_langmuir_2021.jpg
+  file: "Langmuir_2021.png"
   featured: false
 - title: "International Filtration News"
   year: 2020
-  file: cover_filtration_news_2020.jpg
+  file: "International Filtration News_2020.png"
   featured: false
