@@ -29,6 +29,7 @@ Commit changes to `main` or merge a Pull Request. The existing Deploy site workf
 Do not upload sensitive personal information or unpublished work without checking permissions.
 
 ## New site sections
+
 - People (biography, appointments, education, future team members): `_pages/profiles.md`
 - Conferences (selected talks): `_pages/conferences.md`
 - Professional Activities (organization, awards, editorial/review service): `_pages/professional-activities.md`
