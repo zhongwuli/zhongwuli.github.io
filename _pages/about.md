@@ -24,7 +24,7 @@ My research lies at the intersection of **nanofluidics, bioiontronics, and neuro
 
 Before joining EIT Oxford, I was a **Postdoctoral Researcher** in the **Materials Science Division at Lawrence Livermore National Laboratory (LLNL)** (April 2023–May 2026), working with **Dr. Aleksandr Noy**. During this appointment, I was also an **Affiliate Visiting Researcher** at the **Molecular Foundry, Lawrence Berkeley National Laboratory (LBNL)** (March 2025–May 2026).
 
-Previously, I was an **Assistant Professor** at the **China University of Mining and Technology** (2021–2023). I received my doctorate in **Mechanical Engineering from Southeast University** (2021), including joint doctoral research training at LLNL (2018–2020).
+Previously, I was an **Assistant Professor** at the **China University of Mining and Technology** (2021–2023). I received my doctorate in **Mechanical Engineering from Southeast University** (2021), including joint doctoral research training at LLNL (2018–2020). See [People](/people/) for my full academic background.
 
 ## Research interests
 
@@ -33,24 +33,6 @@ Previously, I was an **Assistant Professor** at the **China University of Mining
 **Bioiontronics.** Development of 3D droplet interface bilayer networks, engineered protein nanopores, and hydrogel- and ion-based memristors for bioinspired information processing and biological interfaces.
 
 **Water, Energy & AI.** Translation of nanofluidic and bioiontronic principles into salinity-gradient energy conversion, molecular separation, intelligent nanopore sensing, and neuromorphic ionic computing.
-
-## Selected journal covers
-
-<div class="row row-cols-2 row-cols-md-3 g-3 mb-4">
-{% assign featured_covers = site.data.covers | where: "featured", true %}
-{% for cover in featured_covers %}
-  {% assign cover_path = '/assets/img/book_covers/' | append: cover.file %}
-  {% assign cover_file = site.static_files | where: "path", cover_path | first %}
-  <div class="col mb-3">
-    {% if cover_file %}
-      <img src="{{ cover_path | relative_url }}" alt="{{ cover.title | escape }} journal cover" class="img-fluid rounded" loading="lazy">
-    {% endif %}
-    <div class="mt-1"><strong>{{ cover.title }}</strong> ({{ cover.year }})</div>
-  </div>
-{% endfor %}
-</div>
-
-[View all journal covers](/covers/) · [Selected publications](/publications/) · [Full academic CV](/cv/)
 
 ## Research journey
 
