@@ -27,6 +27,11 @@ cv:
         end_date: 2026-05
         highlights:
           - "Advisor: Aleksandr Noy"
+      - company: Lawrence Berkeley National Laboratory
+        position: Affiliate Visiting Researcher, Molecular Foundry
+        location: Berkeley, California, USA
+        start_date: 2025-03
+        end_date: 2026-05
       - company: China University of Mining and Technology
         position: Assistant Professor, School of Mechatronic Engineering
         location: Xuzhou, China
