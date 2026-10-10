@@ -3,6 +3,7 @@
 The website is powered by [al-folio](https://github.com/alshedivat/al-folio) and GitHub Pages.
 
 ## Where to edit
+
 - Personal biography and research interests: `_pages/about.md`
 - Research descriptions: `_pages/projects.md`
 - Selected publications: `_pages/publications.md`
