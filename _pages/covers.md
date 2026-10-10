@@ -11,7 +11,7 @@ A collection of covers associated with my published research. Cover images and j
 
 <div class="row row-cols-2 row-cols-md-3 g-3">
 {% for cover in site.data.covers %}
-  {% assign cover_path = '/assets/img/covers/' | append: cover.file %}
+  {% assign cover_path = '/assets/img/book_covers/' | append: cover.file %}
   {% assign cover_file = site.static_files | where: "path", cover_path | first %}
   <div class="col mb-4">
     {% if cover_file %}
