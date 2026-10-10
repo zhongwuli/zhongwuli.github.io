@@ -27,3 +27,11 @@ Upload a portrait as `assets/img/prof_pic.jpg`. In `_pages/about.md`, the profil
 Commit changes to `main` or merge a Pull Request. The existing Deploy site workflow builds the `gh-pages` branch. The Pages source should be **Deploy from a branch → gh-pages → /(root)**.
 
 Do not upload sensitive personal information or unpublished work without checking permissions.
+
+## New site sections
+- People (biography, appointments, education, future team members): `_pages/profiles.md`
+- Conferences (selected talks): `_pages/conferences.md`
+- Professional Activities (organization, awards, editorial/review service): `_pages/professional-activities.md`
+- Life & Moments (personal photo album): `_pages/moments.md`; upload images into `assets/img/moments/`
+- Journal Covers (only on its own page): `_pages/covers.md` and `_data/covers.yml`
+- The CV page is hidden from the navigation; background is kept on People instead.
