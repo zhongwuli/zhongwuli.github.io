@@ -1,65 +1,23 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Current research directions and selected past work.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 1
 ---
+## Nanofluidics and molecular transport
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+How do water and ions move through sub-nanometre channels, and how do confinement, interfaces and quantum effects reshape their transport? My work uses carbon nanotube porins, boron nitride nanotube porins and biomimetic channels to study fundamental transport mechanisms and selective separation.
 
-{% else %}
+## Bioiontronics and soft neuromorphic devices
 
-<!-- Display projects without categories -->
+I explore electrically active networks formed by droplets, lipid bilayers, protein nanopores and hydrogel junctions. These soft ionic systems can exhibit history-dependent conductance, synaptic-like plasticity and nonlinear dynamics relevant to bioinspired computing.
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+## Water, energy and intelligent biointerfaces
 
-  <!-- Generate cards for each project -->
+I seek to translate nanofluidic transport into salinity-gradient power generation, molecular separation, intelligent sensors and ionic information-processing systems capable of interfacing with biological environments.
 
-{% if page.horizontal %}
+## Research approach
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+My research combines electrophysiology and ion-channel measurements, droplet-interface-bilayer fabrication, fluorescence-based transport assays, nanoscale characterization and computational modelling. I am particularly interested in bridging fundamental physics with experimentally realizable soft devices.
