@@ -5,7 +5,7 @@ permalink: /
 subtitle: Postdoctoral Scientist, EIT Oxford · Visiting Researcher, University of Oxford
 profile:
   align: right
-  image:
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Materials & Devices for Life Sciences</p>
@@ -39,7 +39,7 @@ Previously, I was an **Assistant Professor** at the **China University of Mining
 <div class="row row-cols-2 row-cols-md-3 g-3 mb-4">
 {% assign featured_covers = site.data.covers | where: "featured", true %}
 {% for cover in featured_covers %}
-  {% assign cover_path = '/assets/img/covers/' | append: cover.file %}
+  {% assign cover_path = '/assets/img/book_covers/' | append: cover.file %}
   {% assign cover_file = site.static_files | where: "path", cover_path | first %}
   <div class="col mb-3">
     {% if cover_file %}
