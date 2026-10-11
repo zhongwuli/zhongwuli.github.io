@@ -2,7 +2,7 @@
 layout: page
 title: People
 permalink: /people/
-description: Academic background and a space for future group members.
+description: 
 nav: true
 nav_order: 1
 ---
@@ -28,7 +28,7 @@ nav_order: 1
 | Mar 2025–May 2026 | Affiliate Visiting Researcher | Molecular Foundry, Lawrence Berkeley National Laboratory (LBNL), USA |
 | Nov 2021–Mar 2023 | Assistant Professor | China University of Mining and Technology, China |
 
-At EIT Oxford I work with **Professor Hagan Bayley**. My LLNL postdoctoral and joint doctoral research was conducted with **Dr. Aleksandr Noy**.
+<!--At EIT Oxford I work with **Professor Hagan Bayley**. My LLNL postdoctoral and joint doctoral research was conducted with **Dr. Aleksandr Noy**.-->
 
 ### Education
 
@@ -38,8 +38,8 @@ At EIT Oxford I work with **Professor Hagan Bayley**. My LLNL postdoctoral and j
 | 2018–2020 | Joint Ph.D. research, Materials Science | Lawrence Livermore National Laboratory, USA |
 | 2011–2015 | B.Eng., Mechanical Engineering | China University of Mining and Technology, China |
 
-**Doctoral advisor:** Professor Yunfei Chen.  
-**Dissertation:** *Fundamental ion and water transport in low-dimensional carbon nanochannels.*
+<!--**Doctoral advisor:** Professor Yunfei Chen.  
+**Dissertation:** *Fundamental ion and water transport in low-dimensional carbon nanochannels.*-->
 
 ### Research mentoring
 
@@ -49,4 +49,4 @@ At LLNL, I mentored undergraduate and graduate researchers on neuromorphic ionic
 
 ## Group members
 
-This section is reserved for **future students, postdoctoral researchers and collaborators**. Member photos, roles, biographies and research interests can be added as the team grows.
+<!--This section is reserved for **future students, postdoctoral researchers and collaborators**. Member photos, roles, biographies and research interests can be added as the team grows.-->
