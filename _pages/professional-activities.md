@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Activities
+title: Service
 permalink: /professional-activities/
 description: Conference organization, awards, service and peer review.
 nav: true
