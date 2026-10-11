@@ -1,8 +1,8 @@
 ---
 layout: page
-title: journal covers
+title: Journal Covers
 permalink: /covers/
-description: Selected journal and magazine covers featuring my research.
+description: Journal and magazine covers featuring my research.
 nav: true
 nav_order: 4
 ---
