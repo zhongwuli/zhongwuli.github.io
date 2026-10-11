@@ -2,12 +2,11 @@
 layout: page
 title: Conferences
 permalink: /conferences/
-description: Conference talks and presentations.
+description:
 nav: true
 nav_order: 5
 ---
 
-Selected conference presentations, listed in reverse chronological order. More presentations can be added over time.
 
 | Date | Meeting and location | Presentation |
 | --- | --- | --- |
