@@ -19,7 +19,7 @@ nav_order: 6
 
 ## Teaching and mentoring
 
-- **2023–2025, LLNL:** Mentored undergraduate and graduate researchers in experimental nanofluidics and neuromorphic ionic computing.
+- **2023–2025, LLNL:** At LLNL, I mentored undergraduate and graduate researchers on neuromorphic ionic computing with nanofluidic ion channels, including **Vara Qi Gunananthan** (Johns Hopkins University), **Sydney Katherine Myers** (UCLA) and **Jiachen Feng** (University of Nebraska Medical Center).
 - **2021–2023, China University of Mining and Technology:** Teaching Assistant for *Engineering Graphics* and *Mechanical Design*; undergraduate class advisor.
 
 
