@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-Research is an important part of my life, but so are the places I visit and the people I meet along the way. This page is a personal photo journal for **travel, gatherings, daily life and memories beyond research**.
+Research is an important part of my life, but so are the places I visit and the people I meet along the way. This page is a personal photo journal for **travel, daily life and memories beyond research**.
 
 
 ## May 13, 2026 — Last Day at LBNL
