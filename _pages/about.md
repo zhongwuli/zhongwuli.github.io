@@ -26,7 +26,7 @@ Previously, I was a **Lecturer** at the **China University of Mining and Technol
 
 My research focuses on fluid transport phenomena under nanoscale confinement and their translation into advanced membrane separations, energy conversion systems, and neuromorphic functional materials. 
 
-## Research interests
+## Research Interests
 
 **Nanofluidics.** Development of biomimetic nanochannels, combined with experimental and computational studies of fluid transport at nanoscales, elucidating interface, confinement, and quantum effects.
 
@@ -34,7 +34,7 @@ My research focuses on fluid transport phenomena under nanoscale confinement and
 
 **Water, Energy & AI.** Translation of nanofluidic and bioiontronic principles into energy conversion, molecular separation, intelligent sensing, and neuromorphic ionic computing.
 
-## Research vision
+## Research Vision
 
 My long-term aim is to bridge **fundamental nanofluidic physics** and **functional bioiontronic devices**, connecting molecular transport phenomena with engineering technologies for water, energy, and AI. 
 
