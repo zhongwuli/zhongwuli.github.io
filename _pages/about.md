@@ -28,11 +28,11 @@ My research focuses on fluid transport phenomena under nanoscale confinement and
 
 ## Research interests
 
-**Nanofluidics.** Development of biomimetic nanochannels and experimental and computational studies of nanoscale transport, with an emphasis on interfacial, confinement, and quantum effects on the motion of water and ions.
+**Nanofluidics.** Development of biomimetic nanochannels, combined with experimental and computational studies of fluid transport at nanoscales, elucidating interface, confinement, and quantum effects.
 
-**Bioiontronics.** Development of 3D droplet interface bilayer networks, engineered protein nanopores, and hydrogel- and ion-based memristors for bioinspired information processing and biological interfaces.
+**Bioiontronics.** Development of 3D droplet interface bilayer networks, engineered protein nanopores, and hydrogel- and ion-based iontronic memristors for bioinspired information processing and biointerfaces.
 
-**Water, Energy & AI.** Translation of nanofluidic and bioiontronic principles into salinity-gradient energy conversion, molecular separation, intelligent nanopore sensing, and neuromorphic ionic computing.
+**Water, Energy & AI.** Translation of nanofluidic and bioiontronic principles into energy conversion, molecular separation, intelligent sensing, and neuromorphic ionic computing.
 
 ## Research journey
 
