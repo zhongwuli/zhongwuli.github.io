@@ -8,8 +8,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>EIT Oxford</p>
-    <p>Oxford, United Kingdom</p>
+    <p> </p>
+    <p> </p>
 selected_papers: false
 social: true
 announcements:
