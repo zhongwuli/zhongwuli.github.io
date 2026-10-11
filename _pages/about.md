@@ -18,11 +18,11 @@ latest_posts:
   enabled: false
 ---
 
-I am **Zhongwu Li**, a **Postdoctoral Scientist** in **Materials & Devices for Life Sciences** at the **Ellison Institute of Technology Oxford (EIT Oxford)**, working with **Professor Hagan Bayley**. I am also a **Visiting Researcher** in the **Department of Chemistry, University of Oxford**.
+I am **Zhongwu Li**, a **Postdoctoral Scientist** in **Materials & Devices for Life Sciences** at the **Ellison Institute of Technology Oxford (EIT Oxford)**. I am also a **Visiting Researcher** in the **Department of Chemistry, University of Oxford**.
 
-Before joining EIT Oxford, I was a **Postdoctoral Researcher** in the **Materials Science Division at Lawrence Livermore National Laboratory (LLNL)** (April 2023–May 2026), working with **Dr. Aleksandr Noy**. During this appointment, I was also an **Affiliate Visiting Researcher** at the **Molecular Foundry, Lawrence Berkeley National Laboratory (LBNL)** (March 2025–May 2026).
+Before joining EIT Oxford, I was a **Postdoctoral Researcher** in the **Materials Science Division at Lawrence Livermore National Laboratory (LLNL)**. During this appointment, I was also an **Affiliate Visiting Researcher** at the **Molecular Foundry, Lawrence Berkeley National Laboratory (LBNL)**.
 
-Previously, I was an **Assistant Professor** at the **China University of Mining and Technology** (2021–2023). I received my doctorate in **Mechanical Engineering from Southeast University** (2021), including joint doctoral research training at LLNL (2018–2020). See [People](/people/) for my full academic background.
+Previously, I was an **Assistant Professor** at the **China University of Mining and Technology**. I received my doctorate in **Mechanical Engineering from Southeast University**, including joint doctoral research training at LLNL. See [People](/people/) for my full academic background.
 
 My research focuses on fluid transport phenomena under nanoscale confinement and their translation into advanced membrane separations, energy conversion systems, and neuromorphic functional materials. 
 
