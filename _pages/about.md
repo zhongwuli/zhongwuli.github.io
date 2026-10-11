@@ -34,8 +34,8 @@ My research focuses on fluid transport phenomena under nanoscale confinement and
 
 **Water, Energy & AI.** Translation of nanofluidic and bioiontronic principles into energy conversion, molecular separation, intelligent sensing, and neuromorphic ionic computing.
 
-## Research journey
+## Research Vision
 
-My long-term aim is to bridge **fundamental nanofluidic physics** and **functional bioiontronic devices**, connecting molecular transport phenomena with enigneering technologies for water, energy, and AI. 
+My long-term aim is to bridge **fundamental nanofluidic physics** and **functional bioiontronic devices**, connecting molecular transport phenomena with engineering technologies for water, energy, and AI. 
 
 For current publications and updates, visit my [Google Scholar](https://scholar.google.com/citations?user=8_mITz8AAAAJ) or [ORCID](https://orcid.org/0000-0001-8825-6307) profile.
