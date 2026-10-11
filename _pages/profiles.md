@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Zhongwu Li, Ph.D.
 
-<img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Zhongwu Li" style="width:190px;max-width:42%;float:right;margin:0 0 1rem 1.5rem;border-radius:8px;" loading="lazy">
+<img src="{{ '/assets/img/pic.png' | relative_url }}" alt="Zhongwu Li" style="width:190px;max-width:42%;float:right;margin:0 0 1rem 1.5rem;border-radius:8px;" loading="lazy">
 
 **Postdoctoral Scientist**, Materials & Devices for Life Sciences, Ellison Institute of Technology Oxford (EIT Oxford)  
 **Visiting Researcher**, Department of Chemistry, University of Oxford
