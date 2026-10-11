@@ -82,3 +82,25 @@ Research is an important part of my life, but so are the places I visit and the 
      alt="SEU"
      style="width: 30%; height: auto; border-radius: 8px;">
 
+## Will add
+Trip to London, Sep 2026
+Trip to LA, Feb 2025
+Trip to Philadelphia, Feb 2024
+Trip to Switzerland, Jan 2024
+Trip to Miami, Dec 2023
+Trip to DC, Aug 2023
+Trip to Beijing, June 2021
+Trip to Lassen Volcanic National Park, Sep 2020
+Trip to Grand Canyon National Park, Dec 2019
+Trip to Las Vegas, Dec 2019
+Trip to Yale, Oct 2019
+Trip to Lake Tahoe, Apr 2019
+Trip to Death Valley National Park, Feb 2019
+Trip to Hongkong, Apr 2017
+Trip to New Orleans, Feb 2017
+
+
+
+
+
+
