@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: Postdoctoral Scientist, EIT Oxford · Visiting Researcher, University of Oxford
