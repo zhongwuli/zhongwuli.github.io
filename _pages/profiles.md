@@ -18,7 +18,7 @@ nav_order: 1
 
 <div style="clear:both"></div>
 
-### Work experience
+#### Work experience
 
 | Dates | Position | Institution |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ nav_order: 1
 
 <!--At EIT Oxford I work with **Professor Hagan Bayley**. My LLNL postdoctoral and joint doctoral research was conducted with **Dr. Aleksandr Noy**.-->
 
-### Education
+#### Education
 
 | Dates | Qualification | Institution |
 | --- | --- | --- |
