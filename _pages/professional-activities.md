@@ -1,6 +1,6 @@
 ---
 layout: page
-title: professional activities
+title: Professional Activities
 permalink: /professional-activities/
 description: Conference organization, awards, service and peer review.
 nav: true
@@ -24,7 +24,6 @@ nav_order: 6
 
 ## Editorial and peer-review service
 
-- **2023–2024:** Young Editorial Board Member and Associate Editor, *Nanotechnology and Precision Engineering* (AIP Publishing).
 - **Peer reviewer:** 80+ manuscript reviews across journals including *Nature Reviews Bioengineering*, *Nature Communications*, *ACS Nano* and *Nano Letters*.
 - **Professional memberships:** Materials Research Society and Biophysical Society.
 
