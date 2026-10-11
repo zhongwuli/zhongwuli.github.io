@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Selected peer-reviewed journal publications. For the complete and latest list, see Google Scholar.
+title: Publications
+description: Peer-reviewed journal publications. For the complete and latest list, see Google Scholar.
 nav: true
 nav_order: 2
 ---
 
-My research spans molecular transport in confined channels, selective nanofluidic membranes, and neuromorphic ionic devices. Below is a **selected** list of publications drawn from my CV; the [complete and latest publication record is on Google Scholar](https://scholar.google.com/citations?user=8_mITz8AAAAJ).
+My research focuses on nanofluidics and bioiontronics. Below is the list of publications; the [complete and latest publication record is on Google Scholar](https://scholar.google.com/citations?user=8_mITz8AAAAJ).
 
 ### 2025
 - **Zhongwu Li**, Aleksandr Noy. [Carbon Nanotube Nanofluidics](https://doi.org/10.1039/d5cs00233h). *Chemical Society Reviews* **54**, 8582–8635 (2025).
