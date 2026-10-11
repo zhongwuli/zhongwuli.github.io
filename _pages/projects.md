@@ -1,8 +1,8 @@
 ---
 layout: page
-title: research
-permalink: /projects/
-description: Current research directions and selected past work.
+title: Research
+permalink: /Research/
+description: Research directions and Selected work.
 nav: true
 nav_order: 1
 ---
