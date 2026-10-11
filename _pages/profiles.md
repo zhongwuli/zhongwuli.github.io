@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 description: Academic background and a space for future group members.
 nav: true
-nav_order: 3
+nav_order: 1
 ---
 
 ## Zhongwu Li, Ph.D.
