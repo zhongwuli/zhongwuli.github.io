@@ -13,7 +13,7 @@ nav_order: 3
 
 - **Zhongwu Li**, Jiachen Feng, Jingyi Xiao, Anton Leouski, Aleksandr Noy<sup>&#42;</sup>. “[Synaptic Functionality and Neuromorphic Information Processing in Membrane Ion Channel Junctions](https://doi.org/10.1002/adma.202519525).” *Advanced Materials* **2026**, 38 (31), e19525. **（Cover）**
 
-- Jobaer Abdullah, **Zhongwu Li**, Yuhao Li, Aleksandr Noy<sup>&#42;</sup>. “[Rare Earth Ion Transport and selectivity in Large Diameter Nanotube Porins](https://doi.org/10.1039/D6FD00006A).” *Faraday Discussions* **2026**, 266, 333–341.
+- Jobaer Abdullah, **Zhongwu Li**, Yuhao Li, Aleksandr Noy<sup>&#42;</sup>. “[Rare Earth Ion Transport and Selectivity in Large Diameter Nanotube Porins](https://doi.org/10.1039/D6FD00006A).” *Faraday Discussions* **2026**, 266, 333–341.
 
 ## 2025
 
