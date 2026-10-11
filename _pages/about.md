@@ -5,7 +5,7 @@ permalink: /
 subtitle: Postdoctoral Scientist, EIT Oxford · Visiting Researcher, University of Oxford
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic.png
   image_circular: false
   more_info: >
     <p> </p>
