@@ -18,7 +18,7 @@ nav_order: 1
 
 <div style="clear:both"></div>
 
-### Academic appointments
+### Work experience
 
 | Dates | Position | Institution |
 | --- | --- | --- |
