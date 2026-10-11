@@ -22,7 +22,7 @@ I am **Zhongwu Li**, a **Postdoctoral Scientist** in **Materials & Devices for L
 
 Before joining EIT Oxford, I was a **Postdoctoral Researcher** in the **Materials Science Division at Lawrence Livermore National Laboratory (LLNL)**. During this appointment, I was also an **Affiliate Visiting Researcher** at the **Molecular Foundry, Lawrence Berkeley National Laboratory (LBNL)**.
 
-Previously, I was an **Assistant Professor** at the **China University of Mining and Technology**. I received my doctorate in **Mechanical Engineering from Southeast University**, including joint doctoral research training at LLNL. See [People](/people/) for my full academic background.
+Previously, I was a **Lecturer** at the **China University of Mining and Technology**. I received my doctorate in **Mechanical Engineering from Southeast University**, including joint doctoral research training at LLNL. 
 
 My research focuses on fluid transport phenomena under nanoscale confinement and their translation into advanced membrane separations, energy conversion systems, and neuromorphic functional materials. 
 
