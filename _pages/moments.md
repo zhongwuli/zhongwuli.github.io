@@ -1,6 +1,6 @@
 ---
 layout: page
-title: life & moments
+title: Life & Moments
 permalink: /moments/
 description: Travel, gatherings, photographs and moments beyond the laboratory.
 nav: true
