@@ -2,12 +2,12 @@
 layout: page
 title: Covers
 permalink: /covers/
-description: Journal and magazine covers featuring my research.
+description:
 nav: true
 nav_order: 4
 ---
 
-A collection of covers associated with my published research. Cover images and journal names are shown for scholarly portfolio purposes.
+A collection of covers associated with my published research. 
 
 <div class="row row-cols-2 row-cols-md-3 g-3">
 {% for cover in site.data.covers %}
