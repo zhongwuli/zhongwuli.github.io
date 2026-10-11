@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Journal publication list.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 **†** Equal contribution (co-first or equal contribution as indicated in the article). **\*** Corresponding author. **（Cover）** Journal cover associated with the paper. [Google Scholar](https://scholar.google.com/citations?user=8_mITz8AAAAJ).
