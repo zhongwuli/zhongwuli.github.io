@@ -2,12 +2,12 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Journal publication list.
+description:
 nav: true
 nav_order: 3
 ---
 
-**†** Equal contribution (co-first or equal contribution as indicated in the article). **\*** Corresponding author. **（Cover）** Journal cover associated with the paper. [Google Scholar](https://scholar.google.com/citations?user=8_mITz8AAAAJ).
+**†** Equal contribution (co-first or equal contribution as indicated in the article). **\*** Corresponding author. [Google Scholar](https://scholar.google.com/citations?user=8_mITz8AAAAJ).
 
 ## 2026
 
@@ -29,11 +29,11 @@ nav_order: 3
 
 - **Zhongwu Li**, Alex T. Hall, Yaqing Wang, Yuhao Li, Dana O. Byrne, Lyndsey R. Scammell, R. Roy Whitney, Frances I. Allen, John Cumings, Aleksandr Noy<sup>&#42;</sup>. “Ion Transport and Ultra-Efficient Osmotic Power Generation in Boron Nitride Nanotube Porins.” *Science Advances* **2024**, 10 (36), ado8081.
 
-- Yuhao Li<sup>†</sup>, **Zhongwu Li**<sup>†</sup>, Rahul Prasanna Misra<sup>†</sup>, Chenxing Liang<sup>†</sup>, Alice J. Gillen, Sidi Zhao, Jobaer Abdullah, Ted Laurence, Jeffrey A. Fagan, Narayana Aluru<sup>&#42;</sup>, Daniel Blankschtein<sup>&#42;</sup>, Aleksandr Noy<sup>&#42;</sup>. “[Molecular Transport Enhancement in Pure Metallic Carbon Nanotube Porins](https://doi.org/10.1038/s41563-024-01925-w).” *Nature Materials* **2024**, 23 (8), 1123-1130. **（Cover）**
+- Yuhao Li<sup>†</sup>, **Zhongwu Li**<sup>†</sup>, Rahul Prasanna Misra<sup>†</sup>, Chenxing Liang<sup>†</sup>, Alice J. Gillen, Sidi Zhao, Jobaer Abdullah, Ted Laurence, Jeffrey A. Fagan, Narayana Aluru<sup>&#42;</sup>, Daniel Blankschtein<sup>&#42;</sup>, Aleksandr Noy<sup>&#42;</sup>. “[Molecular Transport Enhancement in Pure Metallic Carbon Nanotube Porins](https://doi.org/10.1038/s41563-024-01925-w).” *Nature Materials* **2024**, 23 (8), 1123-1130. **（Cover; Highligh in News & Views）**
 
 ## 2023
 
-- **Zhongwu Li**<sup>†</sup>, Rahul Prasanna Misra<sup>†</sup>, Yuhao Li, Yun-Chiao Yao, Sidi Zhao, Yuliang Zhang, Yunfei Chen, Daniel Blankschtein<sup>&#42;</sup>, Aleksandr Noy<sup>&#42;</sup>. “[Breakdown of the Nernst-Einstein Relation in Carbon Nanotube Porins](https://doi.org/10.1038/s41565-022-01276-0).” *Nature Nanotechnology* **2023**, 18 (2), 177-183. **（Cover）**
+- **Zhongwu Li**<sup>†</sup>, Rahul Prasanna Misra<sup>†</sup>, Yuhao Li, Yun-Chiao Yao, Sidi Zhao, Yuliang Zhang, Yunfei Chen, Daniel Blankschtein<sup>&#42;</sup>, Aleksandr Noy<sup>&#42;</sup>. “[Breakdown of the Nernst-Einstein Relation in Carbon Nanotube Porins](https://doi.org/10.1038/s41565-022-01276-0).” *Nature Nanotechnology* **2023**, 18 (2), 177-183. **（Cover; Highligh in News & Views）**
 
 - **Zhongwu Li**<sup>&#42;</sup>, Quan Han. “[Gated Ion Transport in Disjoint Carbon Nanotubes by A Water Bridge](https://doi.org/10.1016/j.carbon.2023.118164).” *Carbon* **2023**, 212, 118164.
 
