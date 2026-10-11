@@ -26,7 +26,7 @@ nav_order: 1
 | Jun 2026–present | Visiting Researcher | Department of Chemistry, University of Oxford, UK |
 | Apr 2023–May 2026 | Postdoctoral Researcher | Lawrence Livermore National Laboratory (LLNL), USA |
 | Mar 2025–May 2026 | Affiliate Visiting Researcher | Molecular Foundry, Lawrence Berkeley National Laboratory (LBNL), USA |
-| Nov 2021–Mar 2023 | Assistant Professor | China University of Mining and Technology, China |
+| Nov 2021–Mar 2023 | Lecturer | China University of Mining and Technology, China |
 
 <!--At EIT Oxford I work with **Professor Hagan Bayley**. My LLNL postdoctoral and joint doctoral research was conducted with **Dr. Aleksandr Noy**.-->
 
@@ -40,10 +40,6 @@ nav_order: 1
 
 <!--**Doctoral advisor:** Professor Yunfei Chen.  
 **Dissertation:** *Fundamental ion and water transport in low-dimensional carbon nanochannels.*-->
-
-### Research mentoring
-
-At LLNL, I mentored undergraduate and graduate researchers on neuromorphic ionic computing with nanofluidic ion channels, including **Vara Qi Gunananthan** (Johns Hopkins University), **Sydney Katherine Myers** (UCLA) and **Jiachen Feng** (University of Nebraska Medical Center).
 
 ---
 
