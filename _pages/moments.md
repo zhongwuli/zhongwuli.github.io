@@ -30,5 +30,12 @@ Research is an important part of my life, but so are the places I visit and the 
 ## Feb 10, 2026 — Snowshoeing at Lake Tahoe Nanofluidic Conference
 
 <img src="/assets/img/moments/20260210_Laketahoe.jpg"
-     alt="Yosemite National Park"
+     alt="Lake Tahoe Nanofluidic Conference"
      style="width: 30%; height: auto; border-radius: 8px;">
+
+## Dec 17, 2025 — Trip to Honolulu
+
+<img src="/assets/img/moments/20251217_Trip_to_Honolulu.jpg"
+     alt="Honolulu"
+     style="width: 30%; height: auto; border-radius: 8px;">
+     
