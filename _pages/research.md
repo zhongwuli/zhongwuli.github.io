@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: Research journey, methods and research directions in nanofluidics and bioiontronics.
+description:
 nav: true
 nav_order: 2
 ---
