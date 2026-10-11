@@ -1,21 +1,17 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Complete journal publication list with author contributions and journal cover highlights.
+title: Publications
+description: Journal publication list.
 nav: true
 nav_order: 2
 ---
 
-Publications are listed chronologically, using author order and contribution markings from my academic CV. **Zhongwu Li** is highlighted in bold.
-
-**†** Equal contribution (co-first or equal contribution as indicated in the article). **⁎** Corresponding author. **（封面）** Journal cover associated with the paper. [Google Scholar](https://scholar.google.com/citations?user=8_mITz8AAAAJ).
+**†** Equal contribution (co-first or equal contribution as indicated in the article). **⁎** Corresponding author. **（Cover）** Journal cover associated with the paper. [Google Scholar](https://scholar.google.com/citations?user=8_mITz8AAAAJ).
 
 ## 2026
 
-- **Zhongwu Li**, Jiachen Feng, Jingyi Xiao, Anton Leouski, Aleksandr Noy⁎. “[Synaptic Functionality and Neuromorphic Information Processing in Membrane Ion Channel Junctions](https://doi.org/10.1002/adma.202519525).” *Advanced Materials* **2026**, 38 (31), e19525. **（封面）**
-
-- Congcong Zhu, Kun He⁎, Guoling Mao, Dongyang Liu, **Zhongwu Li**⁎, Wenli Gao. “[Through-Thickness Inhomogeneity on Microstructure, Mechanical Properties, and Corrosion Resistance of Al–Cu–Li Alloy Thick Plate](https://doi.org/10.1002/adem.202502294).” *Advanced Engineering Materials* **2026**, 28, e202502294.
+- **Zhongwu Li**, Jiachen Feng, Jingyi Xiao, Anton Leouski, Aleksandr Noy⁎. “[Synaptic Functionality and Neuromorphic Information Processing in Membrane Ion Channel Junctions](https://doi.org/10.1002/adma.202519525).” *Advanced Materials* **2026**, 38 (31), e19525. **（Cover）**
 
 - Jobaer Abdullah, **Zhongwu Li**, Yuhao Li, Aleksandr Noy⁎. “[Rare Earth Ion Transport and selectivity in Large Diameter Nanotube Porins](https://doi.org/10.1039/D6FD00006A).” *Faraday Discussions* **2026**, 266, 333–341.
 
@@ -23,33 +19,29 @@ Publications are listed chronologically, using author order and contribution mar
 
 - Jobaer Abdullah, Marcos Calegari-Andrade, Zhulfaa Zhulficar, Margaret Berrens, **Zhongwu Li**, Golam Azom, Yun-Chiao Yao, Zachery Rizer, Yunfeng Li, Sidi Zhao, Tuan Anh Pham⁎, YuHuang Wang⁎, Aleksandr Noy⁎. “[Ion Transport in Carbon Nanotube Porins with A pH-Switchable Entrance Gate](https://doi.org/10.1021/acs.nanolett.5c04234).” *Nano Letters* **2025**, 25 (46), 16421–16426.
 
-- **Zhongwu Li**, Aleksandr Noy⁎. “[Carbon Nanotube Nanofluidics](https://doi.org/10.1039/d5cs00233h).” *Chemical Society Reviews* **2025**, 54 (19), 8582-8635. **（封面）**
+- **Zhongwu Li**, Aleksandr Noy⁎. “[Carbon Nanotube Nanofluidics](https://doi.org/10.1039/d5cs00233h).” *Chemical Society Reviews* **2025**, 54 (19), 8582-8635. **（Cover）**
 
 - **Zhongwu Li**, Sydney K. Myers, Jingyi Xiao, Yuhao Li, Natasha Noy, Anton Leouski, Aleksandr Noy⁎. “[Neuromorphic Ionic Computing in Droplet Interface Synapses](https://doi.org/10.1126/sciadv.adv6603).” *Science Advances* **2025**, 11 (30), adv6603.
 
-- Ruwei Geng⁎, Zhenghua Deng, Zhihao Deng, Yunlong Wang, **Zhongwu Li**⁎, Zhengying Wei. “[Microstructural Transformation and Elemental Distribution of 2319 Aluminum Alloy in Droplet Hybrid Arc Additive Manufacturing](https://doi.org/10.1016/j.jmrt.2025.10.009).” *Journal of Materials Research and Technology* **2025**, 39, 3637-3649.
-
-- Ruwei Geng, Ninshu Ma⁎, Daichi Nishimoto, Renzhi Zhang, Fenggui Lu, **Zhongwu Li**⁎. “[Microstructure, Element Distribution and Interfacial Properties of Laser Welded Iron–Nickel–Steel Dissimilar Joints](https://doi.org/10.1016/j.jmrt.2025.06.152).” *Journal of Materials Research and Technology* **2025**, 37, 2463-2473.
-
-- Yuhao Li, Bradley S. Harris†, **Zhongwu Li**†, Chenyang Shi†, Jobaer Abdullah, Sagardip Majumder, Samuel Berhanu, Anastassia A. Vorobieva, Sydney K. Myers, Jeevapani Hetti, Marcel D. Baer⁎, James J. De Yoreo⁎, David Baker⁎, Aleksandr Noy⁎. “[Water, Solute, and Ion Transport in de novo Designed Membrane Protein Channels](https://doi.org/10.1021/acsnano.4c11317).” *ACS Nano* **2025**, 19 (2), 2185-2195. **（封面）**
+- Yuhao Li, Bradley S. Harris†, **Zhongwu Li**†, Chenyang Shi†, Jobaer Abdullah, Sagardip Majumder, Samuel Berhanu, Anastassia A. Vorobieva, Sydney K. Myers, Jeevapani Hetti, Marcel D. Baer⁎, James J. De Yoreo⁎, David Baker⁎, Aleksandr Noy⁎. “[Water, Solute, and Ion Transport in de novo Designed Membrane Protein Channels](https://doi.org/10.1021/acsnano.4c11317).” *ACS Nano* **2025**, 19 (2), 2185-2195. **（Cover）**
 
 ## 2024
 
 - **Zhongwu Li**, Alex T. Hall, Yaqing Wang, Yuhao Li, Dana O. Byrne, Lyndsey R. Scammell, R. Roy Whitney, Frances I. Allen, John Cumings, Aleksandr Noy⁎. “Ion Transport and Ultra-Efficient Osmotic Power Generation in Boron Nitride Nanotube Porins.” *Science Advances* **2024**, 10 (36), ado8081.
 
-- Yuhao Li†, **Zhongwu Li**†, Rahul Prasanna Misra†, Chenxing Liang†, Alice J. Gillen, Sidi Zhao, Jobaer Abdullah, Ted Laurence, Jeffrey A. Fagan, Narayana Aluru⁎, Daniel Blankschtein⁎, Aleksandr Noy⁎. “[Molecular Transport Enhancement in Pure Metallic Carbon Nanotube Porins](https://doi.org/10.1038/s41563-024-01925-w).” *Nature Materials* **2024**, 23 (8), 1123-1130. **（封面）**
+- Yuhao Li†, **Zhongwu Li**†, Rahul Prasanna Misra†, Chenxing Liang†, Alice J. Gillen, Sidi Zhao, Jobaer Abdullah, Ted Laurence, Jeffrey A. Fagan, Narayana Aluru⁎, Daniel Blankschtein⁎, Aleksandr Noy⁎. “[Molecular Transport Enhancement in Pure Metallic Carbon Nanotube Porins](https://doi.org/10.1038/s41563-024-01925-w).” *Nature Materials* **2024**, 23 (8), 1123-1130. **（Cover）**
 
 ## 2023
 
-- **Zhongwu Li**†, Rahul Prasanna Misra†, Yuhao Li, Yun-Chiao Yao, Sidi Zhao, Yuliang Zhang, Yunfei Chen, Daniel Blankschtein⁎, Aleksandr Noy⁎. “[Breakdown of the Nernst-Einstein Relation in Carbon Nanotube Porins](https://doi.org/10.1038/s41565-022-01276-0).” *Nature Nanotechnology* **2023**, 18 (2), 177-183. **（封面）**
+- **Zhongwu Li**†, Rahul Prasanna Misra†, Yuhao Li, Yun-Chiao Yao, Sidi Zhao, Yuliang Zhang, Yunfei Chen, Daniel Blankschtein⁎, Aleksandr Noy⁎. “[Breakdown of the Nernst-Einstein Relation in Carbon Nanotube Porins](https://doi.org/10.1038/s41565-022-01276-0).” *Nature Nanotechnology* **2023**, 18 (2), 177-183. **（Cover）**
 
 - **Zhongwu Li**⁎, Quan Han. “[Gated Ion Transport in Disjoint Carbon Nanotubes by A Water Bridge](https://doi.org/10.1016/j.carbon.2023.118164).” *Carbon* **2023**, 212, 118164.
 
 - **Zhongwu Li**⁎, Quan Han, Yinghua Qiu, Dagang Wang⁎. “[Modulation of Water Transport in Carbon Nanotubes by Local Charges](https://doi.org/10.1016/j.carbon.2022.10.048).” *Carbon* **2023**, 202, 83-92.
 
-- Aleksandr Noy⁎, **Zhongwu Li**, Seth B. Darling⁎. “[Fluid Learning: Mimicking Brain Computing with Neuromorphic Nanofluidic Devices](https://doi.org/10.1016/j.nantod.2023.102043).” *Nano Today* **2023**, 53, 102043. **（封面）**
+- Aleksandr Noy⁎, **Zhongwu Li**, Seth B. Darling⁎. “[Fluid Learning: Mimicking Brain Computing with Neuromorphic Nanofluidic Devices](https://doi.org/10.1016/j.nantod.2023.102043).” *Nano Today* **2023**, 53, 102043. **（Cover）**
 
-- Narayana R. Aluru, Fikret Aydin, Martin Z. Bazant, Daniel Blankschtein, Alexandra H. Brozena, J. Pedro de Souza, Menachem Elimelech, Samuel Faucher, John T. Fourkas⁎, Volodymyr B. Koman, Matthias Kuehne, Heather J. Kulik, Hao-Kun Li, Yuhao Li, **Zhongwu Li**, Arun Majumdar, Joel Martis, Rahul Prasanna Misra, Aleksandr Noy, Tuan Anh Pham, Haoran Qu, Archith Rayabharam, Mark A. Reed, Cody L. Ritt, Eric Schwegler, Zuzanna Siwy, Michael S. Strano⁎, YuHuang Wang⁎, Yun-Chiao Yao, Cheng Zhan, Ze Zhang. “[Fluids and Electrolytes under Confinement in Single-Digit Nanopores](https://doi.org/10.1021/acs.chemrev.2c00155).” *Chemical Reviews* **2023**, 123 (6), 2737-2831. **（封面）**
+- Narayana R. Aluru, Fikret Aydin, Martin Z. Bazant, Daniel Blankschtein, Alexandra H. Brozena, J. Pedro de Souza, Menachem Elimelech, Samuel Faucher, John T. Fourkas⁎, Volodymyr B. Koman, Matthias Kuehne, Heather J. Kulik, Hao-Kun Li, Yuhao Li, **Zhongwu Li**, Arun Majumdar, Joel Martis, Rahul Prasanna Misra, Aleksandr Noy, Tuan Anh Pham, Haoran Qu, Archith Rayabharam, Mark A. Reed, Cody L. Ritt, Eric Schwegler, Zuzanna Siwy, Michael S. Strano⁎, YuHuang Wang⁎, Yun-Chiao Yao, Cheng Zhan, Ze Zhang. “[Fluids and Electrolytes under Confinement in Single-Digit Nanopores](https://doi.org/10.1021/acs.chemrev.2c00155).” *Chemical Reviews* **2023**, 123 (6), 2737-2831. **（Cover）**
 
 ## 2022
 
@@ -63,13 +55,13 @@ Publications are listed chronologically, using author order and contribution mar
 
 - Yun-Chiao Yao, **Zhongwu Li**, Alice J Gillen, Shari Yosinski, Mark A. Reed, Aleksandr Noy⁎. “[Electrostatic Gating of Ion Transport in Carbon Nanotube Porins: A Modeling Study](https://doi.org/10.1063/5.0049550).” *The Journal of Chemical Physics* **2021**, 154 (20), 204704.
 
-- Kabin Lin, **Zhongwu Li**, Kun Li, Haojie Yang, Jian Ma, Tie Li, Jingjie Sha⁎, Yunfei Chen⁎. “[Surface Charge Density inside A Silicon Nitride Nanopore](https://doi.org/10.1021/acs.langmuir.1c01504).” *Langmuir* **2021**, 37 (35), 10521-10528. **（封面）**
+- Kabin Lin, **Zhongwu Li**, Kun Li, Haojie Yang, Jian Ma, Tie Li, Jingjie Sha⁎, Yunfei Chen⁎. “[Surface Charge Density inside A Silicon Nitride Nanopore](https://doi.org/10.1021/acs.langmuir.1c01504).” *Langmuir* **2021**, 37 (35), 10521-10528. **（Cover）**
 
 ## 2020
 
 - **Zhongwu Li**, Yuhao Li, Yun-Chiao Yao, Fikret Aydin, Cheng Zhan, Yunfei Chen, Menachem Elimelech, Tuan Anh Pham, Aleksandr Noy⁎. “[Strong Differential Monovalent Anion Selectivity in Narrow Diameter Carbon Nanotube Porins](https://doi.org/10.1021/acsnano.0c02423).” *ACS Nano* **2020**, 14 (5), 6269-6275.
 
-- Yuhao Li†, **Zhongwu Li**†, Fikret Aydin†, Jana Quan, Xi Chen, Yun-Chiao Yao, Cheng Zhan, Yunfei Chen, Tuan Anh Pham⁎, Aleksandr Noy⁎. “Water-Ion Permselectivity of Narrow Diameter Carbon Nanotube Porins.” *Science Advances* **2020**, 6 (38), eaba9966. **（封面）**
+- Yuhao Li†, **Zhongwu Li**†, Fikret Aydin†, Jana Quan, Xi Chen, Yun-Chiao Yao, Cheng Zhan, Yunfei Chen, Tuan Anh Pham⁎, Aleksandr Noy⁎. “Water-Ion Permselectivity of Narrow Diameter Carbon Nanotube Porins.” *Science Advances* **2020**, 6 (38), eaba9966. **（Cover）**
 
 - Long Ma†, **Zhongwu Li**†, Zhishan Yuan, Chuanzhen Huang, Zuzanna S Siwy, Yinghua Qiu⁎. “[Modulation of Ionic Current Rectification in Ultrashort Conical Nanopores](https://doi.org/10.1021/acs.analchem.0c03989).” *Analytical Chemistry* **2020**, 92 (24), 16188-16196.
 
@@ -102,9 +94,5 @@ Publications are listed chronologically, using author order and contribution mar
 ## 2017
 
 - Kabin Lin, Zhishan Yuan, Yu Yu, Kun Li, **Zhongwu Li**, Jingjie Sha, Tie Li, Yunfei Chen⁎. “[A Convenient Method of Manufacturing Liquid-Gated MoS₂ Field Effect Transistors](https://doi.org/10.1088/2053-1591/aa90a4).” *Materials Research Express* **2017**, 4, 105028.
-
-## Accepted / In Press
-
-- Jiachen Feng, Julia Chung, **Zhongwu Li**, Martin Conda-Sheridan, Yuhao Li⁎, Aleksandr Noy⁎. “Efficient Membrane Separation of REE Ions in Engineered Macrocycle Channels.” *ACS Nano* **2026 (Accepted)**.
 
 *Manuscripts under review, in revision, submitted or in preparation are omitted from the published journal list.*
