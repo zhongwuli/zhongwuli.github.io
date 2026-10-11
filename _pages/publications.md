@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Peer-reviewed journal publications. For the complete and latest list, see Google Scholar.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 My research focuses on nanofluidics and bioiontronics. Below is the list of publications; the [complete and latest publication record is on Google Scholar](https://scholar.google.com/citations?user=8_mITz8AAAAJ).
