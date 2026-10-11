@@ -36,3 +36,6 @@ Do not upload sensitive personal information or unpublished work without checkin
 - Life & Moments (personal photo album): `_pages/moments.md`; upload images into `assets/img/moments/`
 - Journal Covers (only on its own page): `_pages/covers.md` and `_data/covers.yml`
 - The CV page is hidden from the navigation; background is kept on People instead.
+
+## Removed starter content
+The original demonstration posts, sample projects, sample news, teaching examples, bookshelf, and unused demonstration pages were removed. The `_posts/` folder is kept for future Research Notes. Do not delete `Gemfile`, `package.json`, `_config.yml`, `.github/workflows/`, or other build files just because they do not appear on the public site.
