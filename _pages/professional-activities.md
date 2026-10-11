@@ -17,11 +17,6 @@ nav_order: 6
 - **Peer reviewer:** 100+ manuscript reviews across journals including *Nature Reviews Bioengineering*, *Nature Communications*, *ACS Nano* and *Nano Letters*.
 - **Professional memberships:** Materials Research Society (2024, 2025, 2026) and Biophysical Society (2018, 2024, 2025, 2026).
 
-## Teaching & Mentoring
-
-- **2023–2025, LLNL:** At LLNL, I mentored undergraduate and graduate researchers on neuromorphic ionic computing with nanofluidic ion channels, including **Vara Qi Gunananthan** (Johns Hopkins University), **Sydney Katherine Myers** (UCLA) and **Jiachen Feng** (University of Nebraska Medical Center).
-- **2021–2023, China University of Mining and Technology:** Teaching Assistant for *Engineering Graphics* and *Mechanical Design*; undergraduate class advisor.
-
 ## Honors & Awards
 
 - **2026:** Best Oral Presentation Award, Nanofluidics Conference Lake Tahoe, USA (sponsored by *Lab on a Chip*, *Nanoscale* and *Nanoscale Advances*).
