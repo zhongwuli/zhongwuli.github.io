@@ -16,8 +16,8 @@ Research is an important part of my life, but so are the places I visit and the 
      alt="Last day at LBNL"
      style="width: 30%; height: auto; border-radius: 8px;">
 
-## May 9, 2025 — Trip to Yosemite National Park
+## May 9, 2026 — Trip to Yosemite National Park
 
-<img src="/assets/img/moments/20250509_Yosemite.jpg"
+<img src="/assets/img/moments/20260509_Yosemite.jpg"
      alt="Yosemite National Park"
      style="width: 30%; height: auto; border-radius: 8px;">
