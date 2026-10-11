@@ -26,3 +26,9 @@ Research is an important part of my life, but so are the places I visit and the 
 <img src="/assets/img/moments/20260509_Yosemite.jpg"
      alt="Yosemite National Park"
      style="width: 30%; height: auto; border-radius: 8px;">
+
+## Feb 10, 2026 — Snowshoeing at Lake Tahoe Nanofluidic Conference
+
+<img src="/assets/img/moments/20260210_Laketahoe.jpg"
+     alt="Yosemite National Park"
+     style="width: 30%; height: auto; border-radius: 8px;">
