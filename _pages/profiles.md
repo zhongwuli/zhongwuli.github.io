@@ -1,6 +1,6 @@
 ---
 layout: page
-title: people
+title: People
 permalink: /people/
 description: Academic background and a space for future group members.
 nav: true
@@ -14,9 +14,7 @@ nav_order: 3
 **Postdoctoral Scientist**, Materials & Devices for Life Sciences, Ellison Institute of Technology Oxford (EIT Oxford)  
 **Visiting Researcher**, Department of Chemistry, University of Oxford
 
-I study molecular nanofluidics, biomimetic ion channels, soft bioiontronics and neuromorphic ionic computing. My research combines fundamental transport physics with the design of functional ionic systems for energy, sensing and biointerfaces.
-
-**Contact:** [zhongwu.li@eit.org](mailto:zhongwu.li@eit.org) · [Google Scholar](https://scholar.google.com/citations?user=8_mITz8AAAAJ) · [ORCID](https://orcid.org/0000-0001-8825-6307)
+**Contact:** [zhongwuli@hotmail.com](mailto:zhongwuli@hotmail.com) · [Google Scholar](https://scholar.google.com/citations?user=8_mITz8AAAAJ) · [ORCID](https://orcid.org/0000-0001-8825-6307)
 
 <div style="clear:both"></div>
 
