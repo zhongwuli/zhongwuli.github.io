@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 
-| Date | Meeting and location | Presentation |
+| Date | Meeting | Presentation |
 | --- | --- | --- |
 | Apr 2026 | Materials Research Society (MRS) Spring Meeting, Honolulu, Hawai'i, USA | **Talk** — Neuromorphic Ionic Computing in Droplet-Based Biomimetic Synapses |
 | Feb 2026 | Biophysical Society 70th Annual Meeting, San Francisco, CA, USA | **Flash talk & poster** — Droplet Membranes With Ion Channels as Biomimetic Synapses for Neuromorphic Computing |
