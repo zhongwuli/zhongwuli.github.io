@@ -27,4 +27,4 @@ Research is an important part of my life, but so are the places I visit and the 
 *Photos are coming soon.* I will share moments from travels, conferences, dinners and everyday life here.
 {% endif %}
 
-To add photos, upload JPG, PNG or WebP files into `assets/img/moments/`. They will appear here automatically after the website is rebuilt.
+<!-- To add photos, upload JPG, PNG or WebP files into `assets/img/moments/`. They will appear here automatically after the website is rebuilt. -->
