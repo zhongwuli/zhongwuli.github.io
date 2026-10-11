@@ -41,7 +41,7 @@ nav_order: 3
 
 - Aleksandr Noy<sup>&#42;</sup>, **Zhongwu Li**, Seth B. Darling<sup>&#42;</sup>. “[Fluid Learning: Mimicking Brain Computing with Neuromorphic Nanofluidic Devices](https://doi.org/10.1016/j.nantod.2023.102043).” *Nano Today* **2023**, 53, 102043. **（Cover）**
 
-- Narayana R. Aluru, Fikret Aydin, Martin Z. Bazant, Daniel Blankschtein, Alexandra H. Brozena, J. Pedro de Souza, Menachem Elimelech, Samuel Faucher, John T. Fourkas<sup>&#42;</sup>, Volodymyr B. Koman, Matthias Kuehne, Heather J. Kulik, Hao-Kun Li, Yuhao Li, **Zhongwu Li** (alphabetical order), Arun Majumdar, Joel Martis, Rahul Prasanna Misra, Aleksandr Noy, Tuan Anh Pham, Haoran Qu, Archith Rayabharam, Mark A. Reed, Cody L. Ritt, Eric Schwegler, Zuzanna Siwy, Michael S. Strano<sup>&#42;</sup>, YuHuang Wang<sup>&#42;</sup>, Yun-Chiao Yao, Cheng Zhan, Ze Zhang. “[Fluids and Electrolytes under Confinement in Single-Digit Nanopores](https://doi.org/10.1021/acs.chemrev.2c00155).” *Chemical Reviews* **2023**, 123 (6), 2737-2831. **（Cover）**
+- Narayana R. Aluru, Fikret Aydin, Martin Z. Bazant, Daniel Blankschtein, Alexandra H. Brozena, J. Pedro de Souza, Menachem Elimelech, Samuel Faucher, John T. Fourkas<sup>&#42;</sup>, Volodymyr B. Koman, Matthias Kuehne, Heather J. Kulik, Hao-Kun Li, Yuhao Li, **Zhongwu Li**, Arun Majumdar, Joel Martis, Rahul Prasanna Misra, Aleksandr Noy, Tuan Anh Pham, Haoran Qu, Archith Rayabharam, Mark A. Reed, Cody L. Ritt, Eric Schwegler, Zuzanna Siwy, Michael S. Strano<sup>&#42;</sup>, YuHuang Wang<sup>&#42;</sup>, Yun-Chiao Yao, Cheng Zhan, Ze Zhang. “[Fluids and Electrolytes under Confinement in Single-Digit Nanopores](https://doi.org/10.1021/acs.chemrev.2c00155).” *Chemical Reviews* **2023**, 123 (6), 2737-2831. **（Cover, alphabetical order）**
 
 ## 2022
 
@@ -94,5 +94,3 @@ nav_order: 3
 ## 2017
 
 - Kabin Lin, Zhishan Yuan, Yu Yu, Kun Li, **Zhongwu Li**, Jingjie Sha, Tie Li, Yunfei Chen<sup>&#42;</sup>. “[A Convenient Method of Manufacturing Liquid-Gated MoS₂ Field Effect Transistors](https://doi.org/10.1088/2053-1591/aa90a4).” *Materials Research Express* **2017**, 4, 105028.
-
-*Manuscripts under review, in revision, submitted or in preparation are omitted from the published journal list.*
