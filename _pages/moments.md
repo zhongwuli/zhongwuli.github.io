@@ -64,7 +64,7 @@ Research is an important part of my life, but so are the places I visit and the 
      alt="San Diego"
      style="width: 30%; height: auto; border-radius: 8px;">
 
-## Sep 2024 —Trip to Seattle
+## Apr 2024 —Trip to Seattle
 
 <img src="/assets/img/moments/20240422_Seatle.jpg"
      alt="Seattle"
