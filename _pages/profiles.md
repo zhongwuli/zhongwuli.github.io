@@ -43,6 +43,6 @@ nav_order: 1
 
 ---
 
-## Group members
+## Group Members
 
 <!--This section is reserved for **future students, postdoctoral researchers and collaborators**. Member photos, roles, biographies and research interests can be added as the team grows.-->
