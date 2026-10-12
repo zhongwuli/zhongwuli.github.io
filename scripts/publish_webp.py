@@ -54,7 +54,7 @@ for document in root.rglob("*"):
     except UnicodeDecodeError:
         continue
     for old in replacements:
-        if old in content:
+        if old in content.replace(old + '.webp', ''):
             raise RuntimeError(f"Old raster reference remains: {document}: {old}")
 
 for original in originals:
