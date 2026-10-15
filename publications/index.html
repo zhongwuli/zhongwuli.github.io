@@ -5,13 +5,16 @@
 </style> <link rel="stylesheet" href="/assets/css/tailwind.css?v=50c64c15cbb9fd1ce6056fdb8bcb4b62"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css" integrity="sha256-MVopmdyC2tYTiJ8wlktf0uh0v4NgT+vNdyVFepi7Q0c=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.5/css/academicons.min.css" integrity="sha256-SzrCOBJbGVFMahewkgjwnApaV2+av1DwMAA+/QGLyZw=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/scholar-icons@1.0.3/css/scholar-icons.css" integrity="sha256-VY3hHVj/hNX3fYG6wtbA6TcKJQl7+FthzGSyIB64klY=" crossorigin="anonymous"> <link defer rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&amp;display=swap"> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-github.css?v=591dab5a4e56573bf4ef7fd332894c99" media="" id="highlight_theme_light"> <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;"> <link rel="stylesheet" href="/assets/css/main.css?v=3116ba77db9ee1581d05bb3e86fbf7f1"> <link rel="canonical" href="https://zhongwuli.github.io/publications/"> <script src="/assets/js/theme.js?v=5286c3e4c334d0ecb8fc0c40ff4fa7ec"></script> <link defer rel="stylesheet" href="/assets/css/jekyll-pygments-themes-native.css?v=5847e5ed4a4568527aa6cfab446049ca" media="none" id="highlight_theme_dark"> <script>
     initTheme();
   </script> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/"> Zhongwu Li </a> <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav"> <ul class="navbar-nav navbar-menu-list flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/">Home </a> </li> <li class="nav-item "> <a class="nav-link" href="/people/">People </a> </li> <li class="nav-item "> <a class="nav-link" href="/research/">Research </a> </li> <li class="nav-item active"> <a class="nav-link" href="/publications/">Publications <span class="sr-only">(current)</span> </a> </li> <li class="nav-item "> <a class="nav-link" href="/teaching/">Teaching </a> </li> <li class="nav-item "> <a class="nav-link" href="/service/">Service </a> </li> <li class="nav-item "> <a class="nav-link" href="/conferences/">Conferences </a> </li> <li class="nav-item "> <a class="nav-link" href="/activities/">Activities </a> </li> <li class="nav-item"> <button id="search-toggle" type="button" title="Search" aria-label="Open search"> <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme"> <i class="fa-half-sun-moon" id="light-toggle-system"></i> <i class="fa-solid fa-moon" id="light-toggle-dark"></i> <i class="fa-solid fa-sun" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="post"> <header class="post-header"> <h1 class="post-title">Publications</h1> <p class="post-description"></p> </header> <article> <p><strong>†</strong> Equal contribution, <strong>*</strong> Corresponding author. <a href="https://scholar.google.com/citations?user=8_mITz8AAAAJ" rel="external nofollow noopener" target="_blank">Google Scholar</a>.</p> <style>
-  .scholar-summary { float: right; width: min(42%, 340px); margin: 0 0 1.1rem 1.5rem; padding: .7rem .9rem; border: 1px solid var(--global-divider-color, #ddd); border-radius: 8px; color: var(--global-text-color, inherit); }
+  .scholar-summary { float: right; width: min(42%, 340px); margin: -2.8rem 0 1.1rem 1.5rem; padding: .7rem .9rem; border: 1px solid var(--global-divider-color, #ddd); border-radius: 8px; color: var(--global-text-color, inherit); }
   .scholar-summary .scholar-head { font-weight: 600; margin-bottom: .5rem; }
   .scholar-summary .scholar-numbers { display: grid; grid-template-columns: repeat(3, 1fr); gap: .3rem; text-align: center; }
   .scholar-summary .scholar-numbers strong { font-size: 1.3rem; display: block; }
   .scholar-summary .scholar-numbers small { font-size: .7rem; display: block; }
-  .scholar-summary .scholar-chart { display: flex; align-items: end; gap: 3px; height: 75px; margin-top: .8rem; }
-  .scholar-summary .scholar-bar { flex: 1; background: var(--global-theme-color, #777); opacity: .75; min-width: 0; }
+  .scholar-summary .scholar-chart { display: flex; gap: 4px; height: 98px; margin-top: .8rem; }
+  .scholar-summary .scholar-bar-group { flex: 1; min-width: 0; display: flex; flex-direction: column; justify-content: end; text-align: center; }
+  .scholar-bar-track { height: 75px; display: flex; align-items: flex-end; }
+  .scholar-bar { width: 100%; background: #888; opacity: .85; }
+  .scholar-year { margin-top: 4px; font-size: .62rem; color: var(--global-text-color, inherit); opacity: .8; }
   .scholar-summary .scholar-updated { font-size: .72rem; opacity: .7; margin-top: .5rem; }
   @media (max-width: 650px) { .scholar-summary { float: none; width: 100%; margin: 0 0 1.3rem; } }
 </style> <aside id="scholar-summary" class="scholar-summary" aria-label="Google Scholar citation statistics" hidden=""> <div class="scholar-head">Google Scholar · Cited by</div> <div class="scholar-numbers"> <div> <strong id="scholar-citations"></strong><small>Citations</small> </div> <div> <strong id="scholar-hindex"></strong><small>h-index</small> </div> <div> <strong id="scholar-i10"></strong><small>i10-index</small> </div> </div> <div id="scholar-chart" class="scholar-chart" role="img" aria-label="Citations by year"></div> <div id="scholar-updated" class="scholar-updated"></div> </aside> <script>
@@ -27,11 +30,21 @@
         var years = d.yearly.slice(-8);
         var max = Math.max(1, ...years.map(function (x) { return x.citations; }));
         years.forEach(function (x) {
+          var group = document.createElement("div");
+          group.className = "scholar-bar-group";
+          var track = document.createElement("div");
+          track.className = "scholar-bar-track";
           var bar = document.createElement("div");
           bar.className = "scholar-bar";
           bar.style.height = Math.max(2, 100 * x.citations / max) + "%";
           bar.title = x.year + ": " + x.citations + " citations";
-          chart.appendChild(bar);
+          var label = document.createElement("span");
+          label.className = "scholar-year";
+          label.textContent = String(x.year).slice(-2);
+          track.appendChild(bar);
+          group.appendChild(track);
+          group.appendChild(label);
+          chart.appendChild(group);
         });
         document.getElementById("scholar-updated").textContent = "Updated " + d.updated + " · Google Scholar";
         document.getElementById("scholar-summary").hidden = false;
